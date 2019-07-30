@@ -17,10 +17,4 @@ Jeevan ka Rahasys
 
 Today is tuesday.
 
-
-Thisse add thsi lobne.
-Too see the effect.
-
-
-
- is done in dev branch.
+This is done in dev branch.
