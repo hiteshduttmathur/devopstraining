@@ -1,4 +1,3 @@
 print("hello world")
-
-      name ="hitesh"
-print(name)
+name ="hitesh"
+print("Hello   " + name)
